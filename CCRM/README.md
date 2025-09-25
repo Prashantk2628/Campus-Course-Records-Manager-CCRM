@@ -85,8 +85,6 @@ CCRM offers a command-line interface (CLI) for administrators to efficiently man
 4. Import the CCRM project:  
   File → Import → Existing Projects into Workspace
 
-*Tip: Add screenshots for each step as needed.*
-
 ---
 
 ## 🗺 Syllabus Topics Mapped to Code
@@ -169,3 +167,4 @@ Type the number for your desired action and press Enter. The program will prompt
 15. Export data: Save all records to `export.txt`
 16. Backup: Create a backup in the `exports` directory
 17. Exit: Close the application
+
