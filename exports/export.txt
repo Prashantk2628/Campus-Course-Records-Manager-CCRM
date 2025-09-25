@@ -1,0 +1,8 @@
+=== Courses ===
+CSE2006,Java programing,3,Dr Sanat Jain,true
+
+=== Students ===
+12345,Prashant Kumar,24BCE11128,true
+
+=== Enrollments ===
+12345,CSE2006,S
