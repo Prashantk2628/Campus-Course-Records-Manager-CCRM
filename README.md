@@ -85,8 +85,6 @@ CCRM offers a command-line interface (CLI) for administrators to efficiently man
 4. Import the CCRM project:  
   File → Import → Existing Projects into Workspace
 
-*Tip: Add screenshots for each step as needed.*
-
 ---
 
 ## 🗺 Syllabus Topics Mapped to Code
